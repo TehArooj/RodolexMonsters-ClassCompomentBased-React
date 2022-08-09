@@ -1,3 +1,12 @@
+
+
+# main branch contains code in Class component Based  and the funcionalComponent branch has the Fucntional Component based code
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

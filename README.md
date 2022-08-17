@@ -1,7 +1,6 @@
 
 
-# main branch contains code in Class component Based  and the funcionalComponent branch has the Fucntional Component based code
-
+# main branch contains code in Class component Based  and the funcionalComponent branch has the Fucntional Component based code and typescript branch inlcudes the code in TS
 
 
 
